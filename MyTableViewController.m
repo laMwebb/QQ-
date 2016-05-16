@@ -27,6 +27,7 @@
     
       self.navigationItem.title=@"用户设置";
     NSLog(@"shabi");
+    NSLog(@"nc");
     
 }
 
